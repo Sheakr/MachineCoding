@@ -1,2 +1,2 @@
 # MachineCoding
-machine coding interview practive
+machine coding interview practice
